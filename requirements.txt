@@ -1,1 +1,4 @@
+flet
+pandas
 openpyxl
+numpy
