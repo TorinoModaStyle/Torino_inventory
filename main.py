@@ -1057,4 +1057,5 @@ def main(page_obj):
     page.update()
 
 if __name__ == "__main__":
-    ft.app(target=main)
+    ft.app(main)
+
