@@ -1,0 +1,7 @@
+app:
+  title: Torino Inventory
+  package: com.torino.inventory
+  version: 1.0.0
+
+android:
+  icon: "logo.jpg"
